@@ -1,4 +1,4 @@
-## Result images are as follows:
+## In this code, we will plot the Area plots, Histogram plots and Bar plots. The result images are as follows:
 
 #### 1. Stacked Line Plot or Area Plot for the Top 5 Countries of Immigrants to Canada:
 <img width="637" alt="area plot" src="https://github.com/user-attachments/assets/bee30a61-60a9-42af-b539-8d38812b0e99">
@@ -22,7 +22,7 @@
 <img width="505" alt="histogram-improve2" src="https://github.com/user-attachments/assets/9920110e-e865-4d83-a162-94a87891b11d">
 
 
-#### 6. Vertical Bar Chart for Icelandic immigrants to Canada from 1980 to 2013:
+#### 6. Vertical bar Chart for Icelandic immigrants to Canada from 1980 to 2013:
 ##### Create vertical plot:compare the number of Icelandic immigrants (country = 'Iceland') to Canada from year 1980 to 2013.
 <img width="522" alt="barplot-vertically" src="https://github.com/user-attachments/assets/9b14ff53-35b3-4812-9143-0001c43620ca">
 
