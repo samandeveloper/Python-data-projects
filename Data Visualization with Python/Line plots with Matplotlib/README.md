@@ -1,5 +1,6 @@
 ## In this code, we will plot theLine plots using Matplotlib. The result images are as follows:
 
+
 #### 1. Line Plot for immigratons from Haiti:
 <img width="405" alt="Screenshot 2024-10-16 173254" src="https://github.com/user-attachments/assets/bfdf4559-d581-4876-a10c-a3e813c9540e">
 
