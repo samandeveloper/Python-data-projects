@@ -1,4 +1,5 @@
-## In this code, we will create different visualizations line line, bar, histogram plots and subplotting. The result images are as follows:
+## In this code, we will create different visualizations line line, bar, histogram plots. Alos, we create subplots as well. 
+## The result images are as follows:
 
 
 #### 1. Line plot for immigrants between 1980 to 2013:
