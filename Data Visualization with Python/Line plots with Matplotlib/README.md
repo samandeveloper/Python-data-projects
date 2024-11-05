@@ -8,5 +8,5 @@
 <img width="341" alt="Screenshot 2024-10-16 175120" src="https://github.com/user-attachments/assets/d435a5b9-1d29-4853-a830-a43f2456b327">
 
 
-#### 3. Line Plot for immigrantion trend of top countries:
+#### 3. Line Plot for immigrantion trend of top 5 countries:
 <img width="610" alt="Screenshot 2024-10-16 182429" src="https://github.com/user-attachments/assets/7470bf47-1f91-4bd1-b09e-f86754cfc014">
