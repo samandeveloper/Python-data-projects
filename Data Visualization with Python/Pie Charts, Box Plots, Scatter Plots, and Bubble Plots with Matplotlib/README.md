@@ -1,4 +1,4 @@
-## In this code, we will plot the Area plots, Histogram plots and Bar plots. The result images are as follows:
+## In this code, we will plot Pie Charts, Box Plots, Scatter Plots, and Bubble Plots using Matplotlib. The result images are as follows:
 
 #### 1. Pie Plot to show immigration to Canada by Continent [1980 - 2013]:
 <img width="433" alt="pie chart" src="https://github.com/user-attachments/assets/3deeb242-650d-493e-9351-9a50ee3744a6">
