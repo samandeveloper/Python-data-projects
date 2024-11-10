@@ -24,7 +24,7 @@
 <img width="479" alt="barplot with seborn" src="https://github.com/user-attachments/assets/188552ef-9065-4310-9925-db464f5b4a7a">
 
 
-#### 7. Create Regression plot with Seaborn:
+#### 7. Create Regression plot with Seaborn for total immigration to Canada from 1980-2013:
 <img width="508" alt="regression plot1" src="https://github.com/user-attachments/assets/4c4440c7-d071-40b0-9ea3-3b18360da15c">
 
 
