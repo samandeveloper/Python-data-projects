@@ -8,7 +8,7 @@
 <img width="361" alt="plotpolly(p,x,y" src="https://github.com/user-attachments/assets/25b88475-abd3-4b5a-80ed-39b6c0afa9b9">
 
 
-##### 3. Model Evaluation Using Visualization:
+#### 3. Model Evaluation Using Visualization:
 ####  #We can see from this plot that price is negatively correlated to highway-mpg since the regression slope is negative
 <img width="398" alt="sns regplot(x=highway-mpg, y=price, data=df" src="https://github.com/user-attachments/assets/f380c9c6-731b-44e1-9ac1-6ba9dc4e0c0f">
 
