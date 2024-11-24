@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
-%matplotlib inline
+#%matplotlib inline   #if you are using Jupyter Notebook uncomment this line
 
 filepath="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-Coursera/laptop_pricing_dataset_mod2.csv"
 df = pd.read_csv(filepath, header=None)
