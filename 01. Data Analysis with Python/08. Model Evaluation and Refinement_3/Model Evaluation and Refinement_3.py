@@ -17,7 +17,6 @@ df = pd.read_csv(filepath, header=None)
 df.head()
 
 #Task 1 : Using Cross validation to improve the model
-
 #Divide the dataset into x_data and y_data parameters. Here y_data is the "Price" attribute, and x_data has all other attributes in the data set.
 y_data = df['Price']
 x_data = df.drop('Price',axis=1) #drop the price column (axis=1 is the column)
@@ -36,7 +35,6 @@ print(lre.score(x_train[['CPU_frequency']], y_train))  #0.14829792099817962
 #Run a 4-fold cross validation on the model and print the mean value of R^2 score along with its standard deviation.
 Rcross = cross_val_score(lre, x_data[['CPU_frequency']], y_data, cv=4)
 print("The mean of the folds are", Rcross.mean(), "and the standard deviation is" , Rcross.std())  #The mean of the folds are -0.1610923238859522 and the standard deviation is 0.38495797866647274
-
 
 #Task 2: Overfitting
 #Split the data set into training and testing components again, this time reserving 50% of the data set for testing.
@@ -59,7 +57,6 @@ plt.plot(order, Rsqu_test)
 plt.xlabel('order')
 plt.ylabel('R^2')
 plt.title('R^2 Using Test Data')
-
 
 #Task 3 : Ridge Regression
 #Now consider that you have multiple features, i.e. 'CPU_frequency', 'RAM_GB', 'Storage_GB_SSD', 'CPU_core','OS','GPU' and 'Category'. Create a polynomial feature model that uses all these parameters with degree=2. Also create the training and testing attribute sets.
