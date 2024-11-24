@@ -1,8 +1,8 @@
 #Pie Charts, Box Plots, Scatter Plots, and Bubble Plots with Matplotlib
 
-#Step1:import neccessary libraries (import #%matplotlib inline as well if you are creating plots in Jupyter Notebook)
-import numpy as np  # useful for many scientific computing in Python
-import pandas as pd # primary data structure library
+#Step1:import neccessary libraries (import %matplotlib inline as well if you are creating plots in Jupyter Notebook)
+import numpy as np 
+import pandas as pd 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
