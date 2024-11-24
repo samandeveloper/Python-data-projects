@@ -3,10 +3,10 @@
 # Step1: Import and setup matplotlib:
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches # needed for waffle Charts
-import numpy as np  # useful for many scientific computing in Python
-import pandas as pd # primary data structure library
-from PIL import Image # converting images into arrays
+import matplotlib.patches as mpatches  # needed for waffle Charts
+import numpy as np  
+import pandas as pd 
+from PIL import Image  # converting images into arrays
 import seaborn as sns
 import wordcloud  # for creating wordcloud visualization
 
