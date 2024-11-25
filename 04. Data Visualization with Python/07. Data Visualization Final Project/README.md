@@ -1,4 +1,4 @@
-## In this code, we use SQL with Python and create Histogram, Distribution, Box, Bubble, Line charts. The result images are as follows:
+## In this code, we use SQL with Python and create Histogram, Distribution, Box, Bubble, Bar, and Line charts. The result images are as follows:
 
 #### 1. Histogram Plot of ConvertedComp column in the master table:
 <img width="569" alt="histogram" src="https://github.com/user-attachments/assets/394ae9fe-df3c-4a44-8bdc-5d3b23e23ea9">
